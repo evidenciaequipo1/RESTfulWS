@@ -1,5 +1,5 @@
 # RESTfulWS
-{ a)Intalación
+  a)Intalación
   b)uso
   c)créditos
-  d)licencia}
+  d)licencia
