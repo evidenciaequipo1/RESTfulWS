@@ -1,5 +1,10 @@
 # RESTfulWS
-  a)Intalación
-  b)uso
-  c)créditos
-  d)licencia
+  Secciones:
+  
+  a)Instalación
+  
+  b)Uso
+  
+  c)Créditos
+  
+  d)Licencia
